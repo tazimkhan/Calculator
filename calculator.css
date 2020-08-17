@@ -1,0 +1,99 @@
+
+body{
+    background-color: aquamarine;
+}
+	.form {
+    background-color: hotpink;
+	width:440px;
+	padding:25px;
+	margin:auto;
+	border:5px solid blue;
+	border-radius:15px 15px;
+    }
+    .form1{
+        background-color: lightseagreen;
+        width:350px;
+        padding:25px;
+        margin:auto;
+        border:5px solid blue;
+        border-radius:15px 15px;
+        }
+    
+ 
+	input {
+	background:azure;
+	color:blue;
+	font-size:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:19px;
+	padding-right:19px;
+	margin:6px;
+	border:1px solid blue;
+    }
+    
+    h1{
+        text-align:center;
+        color:orange;
+        background-color:blueviolet;
+        }
+ 
+	h2 {
+    text-align:center;
+    color:blue;
+	}
+
+	.sc {
+	background:#fff;
+	color:#000;
+    }
+    
+    .fm{
+        margin-top: 5cm;
+        margin-left: 15cm;
+        border: 2px solid aqua; 
+        width:500px;
+        padding:25px;
+     background-color: blueviolet;
+
+    }
+    .num{
+        padding: 15px 25px 15px 25px;
+    }
+    .back{
+        padding: 15px 12px 15px 12px;
+    }
+    .ss{
+        padding: 15px 17px 15px 17px;
+    }
+    .point{
+        padding: 15px 27px 15px 27px;
+    }
+    .bs{
+        padding: 15px 29px 15px 29px;
+    }
+    .bj{
+        padding: 15px 38px 15px 38px;
+    }
+	.br{
+		padding: 15px 33px 15px 33px;
+    }
+    .bk{
+        padding: 15px 19px 15px 19px;
+    }
+	.mod{
+		padding: 15px 22px 15px 22px;
+    }
+    .sc{
+        padding: 15px 12px 15px 12px;
+        color: blue;
+    }
+    .ba{
+		background-color: azure;
+		border: 1px solid blue ;
+		text-decoration: none;
+		font-size: 35px;
+		text-decoration-color: blue;
+        padding: 2px 37px 2px 20px;
+    }
+    
